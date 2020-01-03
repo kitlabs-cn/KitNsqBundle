@@ -1,0 +1,2 @@
+# KitNsqBundle
+nsq bundle
